@@ -1,0 +1,38 @@
+Thanks to Prof. Hersh and Ming for letting me do this joint project.
+
+Results are in the PDF.
+
+Instructions for use:
+
+To use the profscrape.py program on Tufts reviews:
+
+	Download and install python 3:
+		get python3 here: https://www.python.org/downloads/
+		get pip3 here: https://pypi.python.org/pypi/pip 
+
+	Download and install selenium:
+		pip3 install -U selenium
+		or http://selenium-python.readthedocs.io/installation.html
+
+	Download adblock:
+		https://chrome-extension-downloader.com/
+		copy paste the code for adblock: gighmmpiobklfepjocnamgkkbiglidom
+
+	Create a directory in your current directory called reviews
+
+	Copy the profscrape.py file and proflist.txt file into the reviews directory
+
+	Run: python3 profscrape.py
+
+To use the gender.py program
+	
+	open the file and choose gender and keyword
+
+	run python3 gender.py
+
+To use the keyword program:
+	
+python(3) keyword.py -h will reveal a helpful window
+
+If there are any problems/questions please email san.akdag@tufts.edu
+

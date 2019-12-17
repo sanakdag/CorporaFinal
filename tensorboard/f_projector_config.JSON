@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "corpus_m",
+      "tensorShape": [
+        2969,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+    }
+  ]
+}
