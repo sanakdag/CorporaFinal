@@ -6,8 +6,8 @@
         2969,
         300
       ],
-      "tensorPath": "https://github.com/sanakdag/CorporaFinal/blob/master/tensorboard/projections/f_vectors.tsv",
-      "metadataPath": "https://github.com/sanakdag/CorporaFinal/blob/master/tensorboard/projections/f_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/sanakdag/CorporaFinal/master/tensorboard/projections/f_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sanakdag/CorporaFinal/master/tensorboard/projections/f_metadata.tsv"
     }
   ]
 }
