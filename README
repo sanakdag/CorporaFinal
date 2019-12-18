@@ -1,4 +1,6 @@
-Thanks to Prof. Hersh and Ming for letting me do this joint project.
+Thanks to prof Crane and Sophia for the help
+
+See everything at the github site: https://github.com/sanakdag/CorporaFinal
 
 Results are in the PDF.
 
@@ -24,15 +26,7 @@ To use the profscrape.py program on Tufts reviews:
 
 	Run: python3 profscrape.py
 
-To use the gender.py program
-	
-	open the file and choose gender and keyword
-
-	run python3 gender.py
-
-To use the keyword program:
-	
-python(3) keyword.py -h will reveal a helpful window
+The rest of the scripts have instructions in the comments
 
 If there are any problems/questions please email san.akdag@tufts.edu
 
