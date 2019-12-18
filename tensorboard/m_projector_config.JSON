@@ -6,8 +6,8 @@
         3128,
         300
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://github.com/sanakdag/CorporaFinal/blob/master/tensorboard/projections/m_vectors.tsv",
+      "metadataPath": "https://github.com/sanakdag/CorporaFinal/blob/master/tensorboard/projections/m_metadata.tsv"
     }
   ]
 }
