@@ -134,13 +134,14 @@ r2 = ax.bar(t+(w/2),women,w,label="W")
 
 ax.legend(["M","W"])
 
-fig.suptitle('Distance between word pairs', fontsize=18, fontweight='bold')
+fig.suptitle('Distance between word pairs', fontsize=40, fontweight='bold')
 
 ax.set_title(' ')
-ax.set_xlabel('word pairs', fontsize=18)
+ax.set_xlabel('word pairs', fontsize=30)
 ax.set_ylabel('distance')
 xti = [x for x in range(0,int(len(data)/2))]
 plt.xticks(xti,labels)
+
 
 plt.savefig("distance.png")
 

@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "corpus_m",
+      "tensorName": "corpus_f",
       "tensorShape": [
         2969,
         300
